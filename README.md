@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://codepen.io/kimobv" target="_blank"><img align="center" src="https://drive.google.com/uc?id=1BnvaS1yuzGCIH5yoPtY7to_AnwZFbEno" alt="kimobv" height="30" width="40" /></a>
-  <a href="https://twitter.com/kim0bv" target="_blank"><img align="center" src="https://drive.google.com/uc?id=10l3gQoTeVbZJ3CokjPRHvTy6mBNeXKP9" alt="kim0bv" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/kimobv" target="_blank"><img align="center" src="https://drive.google.com/uc?id=1rMGAkvi8Okam3EavBDrzbilgxlOjs_EC" alt="kimobv" height="30" width="40" /></a>
+  <a href="https://codepen.io/kimobv" target="_blank"><img align="center" src="/assets/codepen.svg" alt="kimobv" height="30" width="40" /></a>
+  <a href="https://twitter.com/kim0bv" target="_blank"><img align="center" src="/assets/twitter.svg" alt="kim0bv" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kimobv" target="_blank"><img align="center" src="/assets/linked.svg" alt="kimobv" height="30" width="40" /></a>
 </p>
 
 
