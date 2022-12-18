@@ -1,7 +1,7 @@
 ![MasterHead](https://drive.google.com/uc?id=19bONHBAD0teViCsjR4Nsp_0r99MyFR2-)
 <h1 align="center">Hello there, I'm Kim Oliver</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1HOaGkxfRmtTXViRR_cR6pcDw1gVKzF2Z">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1JOQYI1EcGBafaBsbk3Cudr5Wc-HkluHo">
 
 
 - 🔭 I’m currently working on **Revisiting old projects and upgrading**
