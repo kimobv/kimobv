@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://codepen.io/kimobv" target="blank"><img align="center" src="https://drive.google.com/uc?id=1BnvaS1yuzGCIH5yoPtY7to_AnwZFbEno" alt="kimobv" height="30" width="40" /></a>
-  <a href="https://twitter.com/kim0bv" target="blank"><img align="center" src="https://drive.google.com/uc?id=https://drive.google.com/file/d/10l3gQoTeVbZJ3CokjPRHvTy6mBNeXKP9/view?usp=share_link" alt="kim0bv" height="30" width="40" /></a>
+  <a href="https://twitter.com/kim0bv" target="blank"><img align="center" src="https://drive.google.com/uc?id=10l3gQoTeVbZJ3CokjPRHvTy6mBNeXKP9" alt="kim0bv" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kimobv" target="blank"><img align="center" src="https://drive.google.com/uc?id=1rMGAkvi8Okam3EavBDrzbilgxlOjs_EC" alt="kimobv" height="30" width="40" /></a>
 </p>
 
