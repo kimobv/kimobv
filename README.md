@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=19bONHBAD0teViCsjR4Nsp_0r99MyFR2-)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/uc?id=19bONHBAD0teViCsjR4Nsp_0r99MyFR2-)]()
 <h1 align="center">Hello there, I'm Kim Oliver</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1HOaGkxfRmtTXViRR_cR6pcDw1gVKzF2Z">
